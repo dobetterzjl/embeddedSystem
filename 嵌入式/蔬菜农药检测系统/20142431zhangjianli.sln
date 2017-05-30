@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20142431zhangjianli", "20142431zhangjianli\20142431zhangjianli.vcproj", "{42ADB951-AE66-4885-B617-64F748A4B795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|A8-RP (ARMV4I) = Debug|A8-RP (ARMV4I)
+		Release|A8-RP (ARMV4I) = Release|A8-RP (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Debug|A8-RP (ARMV4I).ActiveCfg = Debug|A8-RP (ARMV4I)
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Debug|A8-RP (ARMV4I).Build.0 = Debug|A8-RP (ARMV4I)
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Debug|A8-RP (ARMV4I).Deploy.0 = Debug|A8-RP (ARMV4I)
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Release|A8-RP (ARMV4I).ActiveCfg = Release|A8-RP (ARMV4I)
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Release|A8-RP (ARMV4I).Build.0 = Release|A8-RP (ARMV4I)
+		{42ADB951-AE66-4885-B617-64F748A4B795}.Release|A8-RP (ARMV4I).Deploy.0 = Release|A8-RP (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
